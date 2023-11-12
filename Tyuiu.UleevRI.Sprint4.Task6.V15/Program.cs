@@ -13,7 +13,6 @@ namespace Tyuiu.UleevRI.Sprint4.Task6.V15
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Random rnd = new Random();
             Console.Title = "Спринт #4 | Выполнил: Улеев Р.И. | ИИПБ-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
