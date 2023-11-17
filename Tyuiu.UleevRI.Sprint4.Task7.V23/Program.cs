@@ -19,7 +19,7 @@ namespace Tyuiu.UleevRI.Sprint4.Task7.V23
             Console.Title = "Спринт #4 | Выполнил: Улеев Р.И. | ИИПБ-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Класс Array                                                       *");
+            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант 23                                                              *");
             Console.WriteLine("* Выполнил: Улеев Роман Игоревич | ИИПБ-23-3                              *");
